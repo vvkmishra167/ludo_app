@@ -1,0 +1,6 @@
+name: Ludo App
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Add other dependencies here for your offline ludo game
